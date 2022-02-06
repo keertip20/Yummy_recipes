@@ -67,7 +67,7 @@ public class CategoriesAdapter extends RecyclerView.Adapter<CategoriesAdapter.My
     }
 
     class MyViewHolder extends RecyclerView.ViewHolder{
-        TextView name,description;
+        TextView name;
         ImageView imgCate;
 
         public MyViewHolder(@NonNull View itemView) {
