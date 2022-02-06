@@ -9,8 +9,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:backgroundTint="@color/black"
             android:id="@+id/group"
+            android:background="@drawable/shape"
+            android:layout_marginTop="1dp"
             >
 
         <ImageView

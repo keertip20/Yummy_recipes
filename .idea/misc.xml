@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android/YummyRecipes/app/src/main/res/drawable/shape.xml" value="0.22777777777777777" />
         <entry key="..\:/android/YummyRecipes/app/src/main/res/layout/activity_categories.xml" value="0.25416666666666665" />
         <entry key="..\:/android/YummyRecipes/app/src/main/res/layout/activity_meal_name.xml" value="0.25416666666666665" />
         <entry key="..\:/android/YummyRecipes/app/src/main/res/layout/activity_recipes.xml" value="0.25416666666666665" />
         <entry key="..\:/android/YummyRecipes/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
         <entry key="..\:/android/YummyRecipes/app/src/main/res/layout/categories_list.xml" value="0.264" />
+        <entry key="..\:/android/YummyRecipes/app/src/main/res/layout/recipe_item.xml" value="0.25416666666666665" />
         <entry key="..\:/android/YummyRecipes/app/src/main/res/layout/recipes_list.xml" value="0.25416666666666665" />
       </map>
     </option>
